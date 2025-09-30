@@ -101,11 +101,7 @@ export default function LoginPage() {
               </div>
             </form>
 
-            <div className="mt-6 p-4 bg-blue-50 rounded text-sm">
-              <p className="font-semibold mb-2">Test Accounts:</p>
-              <p className="text-gray-700">Admin: admin@medx.test / Admin123!</p>
-              <p className="text-gray-700">Hospital: hospital1@medx.test / Hospital123!</p>
-            </div>
+        
           </div>
         </div>
       </section>
