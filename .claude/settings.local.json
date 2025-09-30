@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir)",
+      "Bash(move html.html publichtml.html)",
+      "Bash(copy html.html publichtml.html)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
